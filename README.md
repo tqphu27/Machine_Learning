@@ -20,6 +20,7 @@
     Reinforcement learning là các bài toán giúp cho một hệ thống tự động xác định hành vi dựa trên hoàn cảnh để đạt được lợi ích cao nhất (maximizing the performance). Hiện tại, Reinforcement learning chủ yếu được áp dụng vào Lý Thuyết Trò Chơi (Game Theory), các thuật toán cần xác định nước đi tiếp theo để đạt được điểm số cao nhất.
     
  1. Linear Regression
+  - Dạng 
  2. K-Means Clustering
    Elbow:
    +  Distortion: Trung bình cộng bình phương khoảng cách giữa tâm cụm đến các điểm còn lại.
