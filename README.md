@@ -69,6 +69,7 @@
  - Biểu diễn bài toán dưới dạng vector như vậy gọi là vectorization.
  - Nó không chỉ giúp code gọn lại mà  còn tăng tốc độ tính toán một cách đáng kể.
  - Nó có thể tính toán nhiều phép tính cùng một lúc.
+ 
 **2. Mini-batch gradient descent** 
   - Batch  gradient descent: Dùng tất cả dữ liệu trong training set cho mỗi lần thực hiện bước tính đạo hàm.
  - Mini-batch gradient descent: Dùng một phần dữ liệu trong training set cho mỗi lần thực hiện bước tính đạo hàm.
